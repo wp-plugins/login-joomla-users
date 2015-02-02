@@ -1,14 +1,14 @@
 === Login Joomla Users ===
 Contributors: erbj
 Donate link: http://wordpress.org/plugins/login-joomla-users
-Tags: login joomla users, joomla user to wordpress
+Tags: login joomla users, joomla user to wordpress, migrated joomla users, joomla password
 Requires at least: 4.1
 Tested up to: 4.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Login imported users from Joomla 2.5.9 to WordPress 4.1
+Login migrated users from Joomla 2.5.9 to WordPress 4.1
 
 == Description ==
 
